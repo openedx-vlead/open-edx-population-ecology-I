@@ -1,0 +1,50 @@
+{
+    "icons_Population_Ecology.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "BIOTECH18", 
+            "name": "icons_Population_Ecology.png", 
+            "org": "Amrita-University", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_Population Ecology.png", 
+        "filename": "asset-v1:Amrita-University+BIOTECH18+Anytime+type@asset+block@icons_Population_Ecology.png", 
+        "import_path": "icons_Population Ecology.png", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Amrita-University", 
+            "BIOTECH18", 
+            "thumbnail", 
+            "icons_Population_Ecology-png.jpg", 
+            null
+        ]
+    }, 
+    "population-ecology-II.JPG": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "BIOTECH18", 
+            "name": "population-ecology-II.JPG", 
+            "org": "Amrita-University", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "population-ecology-II.JPG", 
+        "filename": "asset-v1:Amrita-University+BIOTECH18+Anytime+type@asset+block@population-ecology-II.JPG", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Amrita-University", 
+            "BIOTECH18", 
+            "thumbnail", 
+            "population-ecology-II-JPG.jpg", 
+            null
+        ]
+    }
+}
